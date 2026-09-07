@@ -1,4 +1,3 @@
-# kylian_seka
 # 💫 About Me:
 Data Engineer | Data Analyst | Big Data & Cloud<br><br>Passionné par la donnée et les technologies numériques, je conçois et développe des solutions permettant de collecter, traiter, transformer, analyser et visualiser les données afin d'accompagner la prise de décision.<br><br>Mon expertise couvre notamment Python, SQL, Power BI, Apache Spark, Databricks, Microsoft Azure, Airflow, dbt et Docker, ainsi que la conception de pipelines de données et de tableaux de bord décisionnels.<br><br>Je possède également une expérience en développement web et backend, notamment avec Laravel, PHP, Vue.js, React et les bases de données relationnelles.<br><br>🎯 Objectif professionnel : contribuer à des projets innovants en Data Engineering, Data Analysis, Big Data et Cloud, en mettant en œuvre des architectures data fiables, automatisées et évolutives.
 
